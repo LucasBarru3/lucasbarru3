@@ -1,13 +1,37 @@
-# 👋 Hola, soy [Tu Nombre]  
-### 💻 Desarrollador web | 🌟 Amante de la tecnología
+# Hi 👋, I'm Lucas Barrueta  
 
-#### 🚀 Tecnologías principales:  
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+### 💻 Developer | 🚀 Passionate about Web Development  
 
-#### ✨ Proyectos destacados:  
-- [**Proyecto 1: Mi portafolio web**](https://github.com/tu-usuario/portafolio)  
-- [**Proyecto 2: Juego Escape Room**](https://github.com/tu-usuario/escape-room)  
+<p align="left">
+  <a href="https://twitter.com/Lucasbarru3" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/twitter/follow/Lucasbarru3?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge">
+  </a>
+</p>
 
-📫 **Contáctame:** [LinkedIn](https://www.linkedin.com/in/tu-perfil) | [Correo](mailto:tuemail@example.com)  
+---
+
+### 📫 How to reach me:
+- **Email:** [lucasbarru3@example.com](mailto:lucasbarru3@example.com)
+- **LinkedIn:** [Lucas Barrueta](https://www.linkedin.com/in/lucasbarru3)
+
+---
+
+### 🌟 GitHub Stats:
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Lucabarru3&show_icons=true&theme=dark&locale=en&layout=compact" alt="Top Languages" />
+</p>
+
+<p align="left">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Lucabarru3&show_icons=true&theme=dark&locale=en" alt="GitHub Stats" />
+</p>
+
+---
+
+### 💼 Featured Projects:
+- [**Escape Room Cybersecurity**](https://github.com/Lucabarru3/escape-room): A fun and educational game about cybersecurity.  
+- [**Web Portfolio**](https://github.com/Lucabarru3/portfolio): A showcase of my web development skills.  
+
+---
+
+### 🌱 Currently Learning:
+- Vue.js, Laravel, Docker, and Tailwind CSS.
