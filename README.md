@@ -1,4 +1,4 @@
-# Hi 👋, I'm Lucas Barrueta  
+# Hi 👋, I'm Lucas García  
 
 ### 💻 Developer | 🚀 Passionate about Web Development  
 
@@ -6,7 +6,7 @@
 
 ### 📫 How to reach me:
 - **Email:** [lucasbarru3@gmail.com](mailto:lucasbarru3@gmail.com)
-- **LinkedIn:** [Lucas Garcia](https://www.linkedin.com/in/lucas-garcia-437bb833b/)
+- **LinkedIn:** [Lucas García](https://www.linkedin.com/in/lucas-garcia-437bb833b/)
 
 ---
 
