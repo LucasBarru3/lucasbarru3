@@ -2,17 +2,11 @@
 
 ### 💻 Developer | 🚀 Passionate about Web Development  
 
-<p align="left">
-  <a href="https://twitter.com/LucasBarru3" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/twitter/follow/LucasBarru3?logo=twitter&style=for-the-badge" alt="Twitter Follow Badge">
-  </a>
-</p>
-
 ---
 
 ### 📫 How to reach me:
-- **Email:** [lucasbarru3@example.com](mailto:lucasbarru3@example.com)
-- **LinkedIn:** [Lucas Barrueta](https://www.linkedin.com/in/lucasbarru3)
+- **Email:** [lucasbarru3@gmail.com](mailto:lucasbarru3@gmail.com)
+- **LinkedIn:** [Lucas Garcia](https://www.linkedin.com/in/lucas-garcia-437bb833b/)
 
 ---
 
