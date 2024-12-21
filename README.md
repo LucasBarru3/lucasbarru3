@@ -22,7 +22,7 @@
 ---
 
 ### 💼 Featured Projects:
-- [**Escape Room Cybersecurity**](https://github.com/LucasBarru3/escape-room): A fun and educational game about cybersecurity.  
+- [**Escape Room Cybersecurity**](https://github.com/2425-EscapeRoom-2DW3/G4_2DW3A_EscapeRoom): A fun and educational game about cybersecurity.  
 - [**Web Portfolio**](https://github.com/LucasBarru3/portfolio): A showcase of my web development skills.  
 
 ---
